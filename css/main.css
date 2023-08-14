@@ -101,4 +101,37 @@ section h2{
 #economy .articles article a{
     background-color: chocolate;
 }
+#technology{
+    background-color:rgb(84, 51, 136);
+}
+#technology .articles article{
+    padding-bottom: 50px;
+}
+#technology .articles article p{
+    color: aliceblue;
+}
+#technology .articles article h3{
+    color: aliceblue;
+}
+#technology .container h2{
+    color: aliceblue;
+}
+#technology .articles article a{
+background-color: rgb(159, 147, 211);
+color: black;
+}
 
+
+
+
+
+
+#entertainment .articles article{
+    padding-bottom: 40px;
+}
+#entertainment{
+    background-color:rgb(253, 224, 60)
+}
+#entertainment .articles article a{
+    background-color: black;
+}
