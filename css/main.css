@@ -37,10 +37,10 @@ header li a:hover{
     width: 1366px;
     margin: 0 auto 0 auto;
 }
-.articles{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+ .articles{
+    display:flex ;
+    flex-wrap:wrap;
+    justify-content: space-between
 }
 .articles article img{
    /* height: 170px;*/
@@ -83,6 +83,7 @@ section h2,
 .articles article h3{
     font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 section h2{
     font-size: 37px;
@@ -100,3 +101,4 @@ section h2{
 #economy .articles article a{
     background-color: chocolate;
 }
+
